@@ -1,33 +1,86 @@
-<!-- Techy Header Preview -->
-[![Header Preview](header.png)](https://41b3r2.github.io/header.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alberto | Full-Stack Developer</title>
+<style>
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0f0f0f;
+    color: #ffffff;
+    overflow: hidden;
+  }
 
-<!-- Social Badges -->
-<p align="left">
-  <a href="https://www.instagram.com/its_bebertkyut/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/john-carlo-alberto-69bb45217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:work.johncarloalberto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  header {
+    text-align: center;
+    padding: 100px 20px;
+    position: relative;
+  }
 
-<!-- Stats and About Me -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="41b3r2" />
-    </td>
-    <td>
-      <h3>👨‍💻 About Me:</h3>
-      <ul>
-        <li>🔧 Working on <b>TillDusk</b> — a Twitter-inspired social media app I'm building from scratch.</li>
-        <li>🚀 Leveling up my skills in <b>modern web development</b> with <b>Next.js</b>.</li>
-        <li>💡 Full-stack developer passionate about creating dynamic and efficient solutions.</li>
-        <li>🌐 Check my live animated header <a href="https://41b3r2.github.io/header.html">here</a>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  h1 {
+    font-size: 3em;
+    margin: 0;
+    animation: pulse 2s infinite;
+    color: #00fff7;
+  }
+
+  p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #a0a0a0;
+  }
+
+  a {
+    color: #00fff7;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: 0.3s;
+  }
+
+  a:hover {
+    color: #ff4b5c;
+  }
+
+  /* Moving background dots for tech effect */
+  .dot {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    background: #00fff7;
+    border-radius: 50%;
+    animation: moveDots 10s linear infinite;
+    opacity: 0.7;
+  }
+
+  @keyframes pulse {
+    0%, 100% { text-shadow: 0 0 10px #00fff7, 0 0 20px #00fff7; }
+    50% { text-shadow: 0 0 20px #00fff7, 0 0 40px #00fff7; }
+  }
+
+  @keyframes moveDots {
+    0% { transform: translateY(0) translateX(0); }
+    100% { transform: translateY(-1000px) translateX(500px); }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Hi, I'm Alberto</h1>
+  <p>Full-Stack Developer delivering efficient and reliable solutions</p>
+  <div>
+    <a href="https://github.com/your-username" target="_blank">GitHub</a>
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>
+    <a href="mailto:youremail@example.com">Email</a>
+  </div>
+
+  <!-- Moving tech dots -->
+  <div class="dot" style="top: 50px; left: 20px;"></div>
+  <div class="dot" style="top: 200px; left: 150px;"></div>
+  <div class="dot" style="top: 300px; left: 300px;"></div>
+  <div class="dot" style="top: 100px; left: 500px;"></div>
+  <div class="dot" style="top: 400px; left: 700px;"></div>
+</header>
+</body>
+</html>
