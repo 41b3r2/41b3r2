@@ -1,6 +1,5 @@
 <!-- Techy Header Preview -->
-[View my live header here](https://41b3r2.github.io/header.html)
-
+[![Header Preview](Header.gif)](https://41b3r2.github.io/header.html)
 
 <!-- Social Badges -->
 <p align="left">
