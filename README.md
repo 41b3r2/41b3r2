@@ -1,5 +1,6 @@
 <!-- Techy Header Preview -->
-[![Header Preview](header.png)](https://41b3r2.github.io/header.html)
+<iframe src="https://41b3r2.github.io/header.html" width="100%" height="400px"></iframe>
+
 
 <!-- Social Badges -->
 <p align="left">
