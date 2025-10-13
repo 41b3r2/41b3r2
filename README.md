@@ -1,5 +1,5 @@
 <!-- Techy Header Preview -->
-<iframe src="https://41b3r2.github.io/header.html" width="100%" height="400px"></iframe>
+[View my live header here](https://41b3r2.github.io/header.html)
 
 
 <!-- Social Badges -->
