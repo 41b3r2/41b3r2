@@ -1,38 +1,53 @@
-<!-- Techy Header Preview -->
-[![Header Preview](Header.gif)](https://41b3r2.github.io/header.html)
-<!-- Social Badges -->
-<p align="left">
-  <a href="https://www.instagram.com/alberto.enano.jr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alberto-enano-jr-9baa74347/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:alenanojr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-<!-- Stats and About Me -->
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.41b3r2.app/api?username=41b3r2&show_icons=true&theme=dark&hide_border=true"
-        alt="Alberto's GitHub Stats"
-      />
-    </td>
-    <td>
-      <h3>👨‍💻 About Me:</h3>
-      <ul>
-        <li>🔧 Working on <b>TillDusk</b> — a Twitter-inspired social media app I'm building from scratch.</li>
-        <li>🚀 Leveling up my skills in <b>modern web development</b> with <b>Next.js</b>.</li>
-        <li>💡 Full-stack developer passionate about creating dynamic and efficient solutions.</li>
-        <li>🌐 Check my live animated header <a href="https://41b3r2.github.io/header.html">here</a>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+<a href="https://41b3r2.github.io/header.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/41b3r2/41b3r2/main/Header.gif" alt="Header" width="100%"/>
+</a>
 
+<br/>
 
-bkt ganyan ?
+<a href="https://www.instagram.com/alberto.enano.jr/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/alberto-enano-jr-9baa74347/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:alenanojr@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+
+- 🔧 Working on **TillDusk** — a Twitter-inspired social media app built from scratch
+- 🚀 Leveling up in **modern web development** with **Next.js**
+- 💡 Full-stack developer passionate about creating dynamic and efficient solutions
+- 🌐 Check out my live animated header **[here](https://41b3r2.github.io/header.html)**
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=41b3r2&color=blueviolet&style=for-the-badge)
+
+</div>
