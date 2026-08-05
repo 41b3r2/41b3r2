@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=41b3r2&theme=react-dark&hide_border=true&area=true&hide_title=false&custom_title=Commit%20Activity&days=365" alt="Commit Activity Graph" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=41b3r2&theme=dark&hide_border=true&card_width=600" alt="GitHub Commit Stats" width="100%"/>
 
 </div>
 
