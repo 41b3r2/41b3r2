@@ -29,7 +29,7 @@
 * 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila.
 * 💻 System Administrator and Developer at Producers Connections Logistics Inc.
 * 🚗 Capstone: Paradapp, AI parking assistant using CNN — presented at IEEE 22nd SCOReD 2024.
-* 🛠️ Full-stack development, system administration, and database design.
+* 🛠️ Full-stack development, system administration, database design and IT support.
 
 <br/>
 
