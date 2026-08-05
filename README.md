@@ -1,8 +1,5 @@
 <!-- Techy Header Preview -->
-<a href="https://41b3r2.github.io/header.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/41b3r2/41b3r2/main/assets/Header.gif" alt="Header Preview" width="100%"/>
-</a>
-
+[![Header Preview](Header.gif)](https://41b3r2.github.io/header.html)
 <!-- Social Badges -->
 <p align="left">
   <a href="https://www.instagram.com/alberto.enano.jr/" target="_blank">
@@ -15,15 +12,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 <!-- Stats and About Me -->
 <table>
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark&hide_border=true"
         alt="Alberto's GitHub Stats"
-        width="100%"
       />
     </td>
     <td>
@@ -37,3 +32,7 @@
     </td>
   </tr>
 </table>
+
+
+
+bkt ganyan ?
