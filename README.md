@@ -12,7 +12,7 @@
 </a>
 <a href="PASTE_YOUR_PORTFOLIO_URL_HERE" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+</a>  
 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
 🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev  
 💻 System Developer at Producers Connections Logistics Inc.  
