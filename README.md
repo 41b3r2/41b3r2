@@ -29,6 +29,20 @@
 
 <br/>
 
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=41b3r2&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=41b3r2&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
 ### 🛠️ Tech Stack
 
 <div align="left">
