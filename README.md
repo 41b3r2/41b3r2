@@ -18,7 +18,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark&hide_border=true"
+        alt="Alberto's GitHub Stats"
+      />
     </td>
     <td>
       <h3>👨‍💻 About Me:</h3>
