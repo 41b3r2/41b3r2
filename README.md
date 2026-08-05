@@ -3,7 +3,7 @@
 
 <!-- Social Badges -->
 <p align="left">
-  <a href="https://www.instagram.com/41b3r2/" target="_blank">
+  <a href="https://www.instagram.com/alberto.enano.jr/ target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/alberto-enano-jr-9baa74347/" target="_blank">
