@@ -3,9 +3,9 @@
 <h1>👋 Welcome to my GitHub!</h1>
 <h2>I'm Alberto Enano Jr.</h2>
 
-🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
-💻 System Developer at Producers Connections Logistics Inc.  
+🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila
 🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev
+💻 System Developer at Producers Connections Logistics Inc.
 
 <br/>
 
