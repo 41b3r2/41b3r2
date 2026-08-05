@@ -34,11 +34,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=41b3r2&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=41b3r2&theme=react-dark&hide_border=true&custom_title=Recent%20Activity&days=90" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=41b3r2&theme=react-dark&hide_border=true&custom_title=Commit%20Activity&days=90" alt="Commit Activity Graph" width="100%"/>
 
 </div>
 
