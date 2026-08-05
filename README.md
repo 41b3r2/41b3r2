@@ -4,7 +4,7 @@
 <h2>I'm Alberto Enano Jr.</h2>
 
 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
-🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev
+🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev  
 💻 System Developer at Producers Connections Logistics Inc.  
 
 <br/>
