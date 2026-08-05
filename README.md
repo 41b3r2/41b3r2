@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark&text_color=ffffff&locale=en" />
+      <img src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark" />
     </td>
     <td>
       <h3>👨‍💻 About Me:</h3>
