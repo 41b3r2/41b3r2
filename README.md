@@ -1,6 +1,13 @@
 <div align="center">
 
 <h2>👋 Welcome to my GitHub! I'm Alberto Enano Jr.</h2>
+
+🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
+🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev  
+💻 System Developer at Producers Connections Logistics Inc.  
+
+<br/>
+
 <a href="https://www.instagram.com/alberto.enano.jr/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
@@ -12,12 +19,8 @@
 </a>
 <a href="PASTE_YOUR_PORTFOLIO_URL_HERE" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a><br>
-Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila <br>
-Full-stack Developer | System Administrator | Embedded & Mobile Dev <br>
-System Developer at Producers Connections Logistics Inc. <br>
+</a>
 
-<br/>
 </div>
 <br/>
 
