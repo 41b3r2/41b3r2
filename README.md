@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1 style="font-size:100px;">👋 Welcome to my GitHub!</h1>
+I'm Alberto Enano Jr.
 <h2>I'm Alberto Enano Jr.</h2>
 
 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
