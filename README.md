@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>👋 Welcome to my GitHub! I'm Alberto Enano Jr.</h2>
+<h2>👋 Welcome to my GitHub!</h2>
 
 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
 🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev  
