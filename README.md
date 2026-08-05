@@ -61,11 +61,11 @@
 
 ### 🎬 Project Demos
 
-- **Paradapp** — AI parking assistant (CNN) — [Demo](PASTE_LINK_HERE)
-- **Fleet Ledger** — logistics fleet management system — [Demo](PASTE_LINK_HERE)
-- **Intramurals Management System** — esports/sports standings & scheduling — [Demo](PASTE_LINK_HERE)
-- **Hanapkita "Find Income"** — sentiment-based feedback ranking system — [Demo](PASTE_LINK_HERE)
-- **Barangay Management System** — SMS OTP, FAQ chatbot, aid tracking — [Demo](PASTE_LINK_HERE)
+- **Paradapp** — AI parking assistant (CNN) — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
+- **Fleet Ledger** — logistics fleet management system — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
+- **Intramurals Management System** — esports/sports standings & scheduling — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
+- **Hanapkita "Find Income"** — sentiment-based feedback ranking system — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
+- **Barangay Management System** — SMS OTP, FAQ chatbot, aid tracking — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
 
 <br/>
 
