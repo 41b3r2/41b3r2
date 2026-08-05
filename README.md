@@ -28,7 +28,7 @@
 👨‍💻 About Me
 
 * 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila
-* 💻 System Developer at Producers Connections Logistics Inc. — built Procurement, Bidding, Fleet Ledger, and Truck Management systems
+* 💻 System Developer at Producers Connections Logistics Inc.
 * 🚗 Capstone: Paradapp, AI parking assistant using CNN — presented at IEEE 22nd SCOReD 2024
 * 🛠️ Full-stack development, system administration, and database design
 
