@@ -59,6 +59,16 @@
 
 <br/>
 
+### 🎬 Project Demos
+
+- **Paradapp** — AI parking assistant (CNN) — [demo link]
+- **Fleet Ledger** — logistics fleet management system — [demo link]
+- **Intramurals Management System** — esports/sports standings & scheduling — [demo link]
+- **Hanapkita "Find Income"** — sentiment-based feedback ranking system — [demo link]
+- **Barangay Management System** — SMS OTP, FAQ chatbot, aid tracking — [demo link]
+
+<br/>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=41b3r2&color=blueviolet&style=for-the-badge)
