@@ -1,5 +1,7 @@
 <!-- Techy Header Preview -->
-[![Header Preview](Header.gif)](https://41b3r2.github.io/header.html)
+<a href="https://41b3r2.github.io/header.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/41b3r2/41b3r2/main/assets/Header.gif" alt="Header Preview" width="100%"/>
+</a>
 
 <!-- Social Badges -->
 <p align="left">
@@ -19,8 +21,9 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=41b3r2&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
         alt="Alberto's GitHub Stats"
+        width="100%"
       />
     </td>
     <td>
