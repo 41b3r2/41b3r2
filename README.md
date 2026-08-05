@@ -1,8 +1,6 @@
 <div align="center">
-<span style="font-size: 2em; font-weight: bold;">👋 Welcome to my GitHub!</span>
-<br/>
-<span style="font-size: 1.5em; font-weight: bold;">I'm Alberto Enano Jr.</span>
-<br/><br/>
+<h1>👋 Welcome to my GitHub!</h1>
+<h2>I'm Alberto Enano Jr.</h2>
 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
 🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev  
 💻 System Developer at Producers Connections Logistics Inc.  
@@ -21,24 +19,18 @@
 </a>
 </div>
 <br/>
-
-<span style="font-size: 1.3em; font-weight: bold;">👨‍💻 About Me</span>
-
+👨‍💻 About Me
 * 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila
 * 💻 System Developer at Producers Connections Logistics Inc.
 * 🚗 Capstone: Paradapp, AI parking assistant using CNN — presented at IEEE 22nd SCOReD 2024
 * 🛠️ Full-stack development, system administration, and database design
 <br/>
-
-<span style="font-size: 1.3em; font-weight: bold;">📊 GitHub Activity</span>
-
+📊 GitHub Activity
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=41b3r2&theme=dark&hide_border=true&card_width=600" alt="GitHub Commit Stats" width="100%"/>
 </div>
 <br/>
-
-<span style="font-size: 1.3em; font-weight: bold;">🛠️ Tech Stack</span>
-
+🛠️ Tech Stack
 <div align="left">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
@@ -52,15 +44,12 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
 <br/>
-
-<span style="font-size: 1.3em; font-weight: bold;">🎬 Project Demos</span>
-
+🎬 Project Demos
 * Paradapp — AI parking assistant (CNN) — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
 * Fleet Ledger — logistics fleet management system — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
 * Intramurals Management System — esports/sports standings & scheduling — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
 * Hanapkita "Find Income" — sentiment-based feedback ranking system — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
 * Barangay Management System — SMS OTP, FAQ chatbot, aid tracking — <a href="PASTE_LINK_HERE" target="_blank">Demo</a>
 <br/>
-
 <div align="center">
 </div>
