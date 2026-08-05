@@ -1,11 +1,10 @@
 <div align="center">
 
-<h1>👋 Welcome to my GitHub!</h1>
-<h2>I'm Alberto Enano Jr.</h2>
+<h2>👋 Welcome to my GitHub! I'm Alberto Enano Jr.</h2>
 
 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
+🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev  
 💻 System Developer at Producers Connections Logistics Inc.  
-🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev
 
 <br/>
 
