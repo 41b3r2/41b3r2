@@ -26,7 +26,7 @@
 - 🔧 Working on **TillDusk** — a Twitter-inspired social media app built from scratch
 - 🚀 Leveling up in **modern web development** with **Next.js**
 - 💡 Full-stack developer passionate about creating dynamic and efficient solutions
-- 🌐 Check out my live animated header **[here](https://41b3r2.github.io/header.html)**
+- 🌐 Live animated header showcased at the top of this profile
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=41b3r2&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=41b3r2&theme=react-dark&hide_border=true&custom_title=Recent%20Activity&days=90" alt="Activity Graph" width="100%"/>
 
 </div>
 
