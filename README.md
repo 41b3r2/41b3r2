@@ -1,7 +1,18 @@
 <div align="center">
 
 <h2>👋 Welcome to my GitHub! I'm Alberto Enano Jr.</h2>
-
+<a href="https://www.instagram.com/alberto.enano.jr/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/alberto-enano-jr-9baa74347/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:alenanojr@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="PASTE_YOUR_PORTFOLIO_URL_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 🎓 Cum Laude, BS Information Technology — Pamantasan ng Lungsod ng Maynila  
 🚗 Full-stack Developer | System Administrator | Embedded & Mobile Dev  
 💻 System Developer at Producers Connections Logistics Inc.  
