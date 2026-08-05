@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://41b3r2.github.io/header.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/41b3r2/41b3r2/main/Header.gif" alt="Header" width="100%"/>
-</a>
+<img src="https://raw.githubusercontent.com/41b3r2/41b3r2/main/Header.gif" alt="Header" width="100%"/>
 
 <br/>
 
@@ -14,6 +12,9 @@
 </a>
 <a href="mailto:alenanojr@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="PASTE_YOUR_PORTFOLIO_URL_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
